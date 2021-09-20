@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning javaSrcript
 - 📫 How to reach me: *anshikamadan2@gmail.com*
 
- <img src="https://64.media.tumblr.com/762e40897d93618393867de1fa19f162/tumblr_n1g3mwPVEP1qdezf9o1_500.gifv" width="250" /> <hr>
+ <img src="https://media1.tenor.com/images/adf05e956f115862fa73eb21b7320421/tenor.gif?itemid=14279006" width="250" /> <hr>
 
  <h3 align="left">Languages and Tools:</h3>
  <p align="left"> 
