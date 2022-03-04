@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Anshika Madan</h1>
-- 🌱 I’m currently learning javaSrcript
+- 🌱 I’m currently learning react
 - 📫 How to reach me: *anshikamadan2@gmail.com*
 
  <img src="https://media1.tenor.com/images/adf05e956f115862fa73eb21b7320421/tenor.gif?itemid=14279006" width="250" /> <hr>
