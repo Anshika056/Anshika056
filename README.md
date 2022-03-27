@@ -4,27 +4,6 @@
 - ⚡ Fun fact: I love gardening ,Reading,music and hiking !<br>
 - 📫 How to reach me: *anshikamadan2@gmail.com*<br>
 
-```js
-document.write("Hello World");
-Developer dev = new Developer(Anshika Madan);
-const Akash = {
-    pronouns: "he" | "his",
-    status: Learner,
-    technologies: {
-        frontEnd: [HTML, CSS, Javascript],
-        backEnd: [Node.js, Express.js, MongoDB, Postgresql],
-        editors: [VS Code, Atom],
-    },
-    addicted: [music, movies, reading]
-    learning: [new things],
-};
-
-if(succeed == false){
-    tryagain();
-}else{
-    party();
-};
-```
  
 
  <h3 align="left">Languages and Tools:</h3>
