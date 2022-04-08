@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Anshika Madan</h1>
 - 🌱 I’m currently learning new thing everyday<br>
--  👯 I’m looking for projects or challenges<br>
+-  👯 I’m looking for projects or challenges
 - ⚡ Fun fact: I love gardening ,reading,music and hiking !<br>
 - 📫 How to reach me: *anshikamadan2@gmail.com*<br>
 
